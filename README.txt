@@ -5,7 +5,7 @@ Yahoo! had decided to make Yahoo! Keykey as a open source projecet and under new
 Some external dependency information are list here:
 1.SinicaCorpus: You could reach http://www.sinica.edu.tw/ for the license.
 2.BPMFMappings was created based on SinicaCorpus.
-3.YahooSearchTerms: You could grabe hot keyword from http://tw.yahoo.com.
+3.YahooSearchTerms: You could grab hot keyword from http://tw.yahoo.com.
 4.sqlite-cerod-see: Commerical SQLite Compressed and Encrypted Read-Only Database (CEROD) Extension, please check http://www.hwaci.com/sw/sqlite/cerod.html
 5.DotMacKit.framework and PackageMaker.app: You can get it from Apple development kit.
 6.CTGradient is licensed under http://creativecommons.org/licenses/by/2.5/ .
