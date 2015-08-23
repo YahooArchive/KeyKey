@@ -1,6 +1,6 @@
-Yahoo! KeyKey[1] is a customized Chinese input methods tool based on an open source project Openvanilla[2].
+Yahoo! KeyKey[1] is a customized Chinese input method tool based on an open source project Openvanilla[2].
 
-Yahoo! had decided to make Yahoo! Keykey as a open source projecet and under new BSD licene.
+Yahoo! had decided to make Yahoo! Keykey as a open source project and under new BSD license.
 
 Some external dependency information are list here:
 1.SinicaCorpus: You could reach http://www.sinica.edu.tw/ for the license.
